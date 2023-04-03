@@ -1,0 +1,17 @@
+{
+  "name": "ubiquitous-octo-spoon",
+  "description": "idk",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/MiniKielbyM/ubiquitous-octo-spoon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.4"
+  }
+}

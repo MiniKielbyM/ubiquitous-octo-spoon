@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "iojs": "^1.0.0",
+    "socket.io": "^4.6.1"
+  },
+  "name": "ubiquitous-octo-spoon",
+  "description": "idk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
